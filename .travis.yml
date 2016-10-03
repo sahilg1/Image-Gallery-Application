@@ -1,2 +1,10 @@
 language: java
 jdk: oraclejdk8
+deploy:
+   edge: true
+   provider: cloudfoundry
+   username: sahilg1@andrew.cmu.edu
+   password: Lukibuki123!
+   api: https://api.run.pivotal.io
+   organization: sahilg1-cmu
+   space: staging
