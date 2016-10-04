@@ -7,8 +7,6 @@ upload-dir/
 .classpath
 .project
 
-src/main/resources/application.properties
-
 *.class
 
 # Mobile Tools for Java (J2ME)
